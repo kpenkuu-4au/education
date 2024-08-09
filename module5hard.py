@@ -50,7 +50,6 @@ class UrTube:
             self.users.append(user)
             self.current_user = user
 
-
     def log_out(self):
         self.current_user = None
 
@@ -79,7 +78,7 @@ class UrTube:
                     print("Вам нет 18 лет, пожалуйста покиньте страницу")
                 else:
                     while play.time_now <= play.duration:
-                        print(play.time_now)
+                        print(play.time_now, end=' ')
                         time.sleep(1)
                         play.time_now += 1
                         continue
