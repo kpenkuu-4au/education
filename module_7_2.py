@@ -1,11 +1,10 @@
 def custom_write(file_name, strings):
+    test_txt = open(file_name, 'w+', encoding='utf-8')
     for elem in range(len(strings)):
-        test_txt = open(file_name, 'a', encoding='utf-8')
         if isinstance(strings[elem], str):
+            print({(strings.index(strings[elem]) + 1, test_txt.tell()): strings[elem]})
             test_txt.write(f'{strings[elem]}\n')
-            value = {(strings.index(strings[elem]) + 1, test_txt.tell()): strings[elem]}
-            print(value)
-        test_txt.close()
+    test_txt.close()
 
 
 info = [
