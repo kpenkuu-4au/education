@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="28834516-5cdd-4d75-ac01-a976c43029a2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/fake_math.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_4/fake_math.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework1.py" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/homework1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework2.py" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/homework2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework3.py" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/homework3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework4.py" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/homework4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework5.py" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/homework5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework6.py" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/homework6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1hard.py" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/module1hard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_10_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10/module_10_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_10_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10/module_10_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_10_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10/module_10_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_10_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10/module_10_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_10_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10/module_10_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_2_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_2/module_2_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_2_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_2/module_2_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_2_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_2/module_2_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_3_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3/module_3_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_3_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3/module_3_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_3_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3/module_3_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_3_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3/module_3_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_3_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3/module_3_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_4_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_4/module_4_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_5_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/modu;e_5/module_5_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_5_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/modu;e_5/module_5_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_5_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/modu;e_5/module_5_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_5_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/modu;e_5/module_5_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_6_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_6/module_6_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_6_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_6/module_6_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_6_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_6/module_6_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_7_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_7/module_7_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_7_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_7/module_7_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_7_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_7/module_7_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_7_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_7/module_7_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_7_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_7/module_7_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_8_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_8/module_8_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_8_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_8/module_8_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_8_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_8/module_8_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_9_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_9/module_9_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_9_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_9/module_9_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_9_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_9/module_9_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_9_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_9/module_9_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_9_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_9/module_9_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_9_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_9/module_9_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_9_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_9/module_9_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/true_math.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_4/true_math.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Базовые структуры данных.py" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/Базовые структуры данных.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project\education\homeworks" />
+      <recent name="D:\project\education\module_10" />
+      <recent name="D:\project\education\module_9" />
+      <recent name="D:\project\education\module_8" />
+      <recent name="D:\project\education\module_7" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task id="LOCAL-00001" summary="testing dir">
+      <option name="closed" value="true" />
+      <created>1727437666706</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727437666706</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="testing dir" />
+    <option name="LAST_COMMIT_MESSAGE" value="testing dir" />
+  </component>
+</project>
