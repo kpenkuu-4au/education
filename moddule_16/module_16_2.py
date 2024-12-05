@@ -29,8 +29,7 @@ async def user_info(
         age: int = Path(
             gt=18,
             le=120,
-            title='Enter age',
-            description='UrbanUser',
+            description='Enter age',
             example='25'
         )
 ) -> dict:
