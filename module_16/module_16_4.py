@@ -72,8 +72,7 @@ async def change_user(
             user.username = username
             user.age = age
             return user
-        else:
-            raise HTTPException(status_code=404, detail="User was not found")
+    raise HTTPException(status_code=404, detail="User was not found")
 
 
 @app.delete('/user/{user_id}')
@@ -85,9 +84,17 @@ async def delete_user(
             example='5'
         )
 ) -> User:
-    for user in range(len(users) - 1):
+    del_index = None
+    del_user = None
+    for user in range(len(users)):
         if users[user].id == user_id:
-            del_user = users.pop(user)
-            return del_user
-        else:
-            raise HTTPException(status_code=404, detail="User was not found")
+            del_index = user
+            del_user = User(
+                id=users[user].id,
+                username=users[user].username,
+                age=users[user].age
+            )
+    if del_user is not None:
+        users.pop(del_index)
+        return del_user
+    raise HTTPException(status_code=404, detail="User was not found")
