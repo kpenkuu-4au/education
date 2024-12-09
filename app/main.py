@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from routers import user, task
+from app.routers import user, task
 
 app = FastAPI()
 
@@ -11,3 +11,7 @@ async def get_msg() -> dict:
 
 app.include_router(user.router)
 app.include_router(task.router)
+
+
+# uvicorn app.main:app --reload
+
